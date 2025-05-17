@@ -1,6 +1,6 @@
 {
   "name": "leads-tracker",
-  "description": "A simple leads tracker",
+  "description": "A simple leads tracker ",
   "version": "1.0.0",
   "scripts": {
     "start": "vite",
